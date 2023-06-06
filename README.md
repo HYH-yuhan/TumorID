@@ -8,7 +8,6 @@ Please note that the script is only available for globalfiler.Please contact the
 ## Example
 An example is provided here, including the **tumor sample profile HTFD0166.txt, reference profile HBD0166.txt, frequency file southeast_fre.txt, size file gf_kit.txt** .All of profile were exported by GeneMapper ID-X 1.5 software (Applied Biosystems, USA), frequency file were derived from a population survey of Southwest Han Chinese individuals,and globalfiler kit info was exported from [euroformix](http://euroformix.com/)
 
-
 ## Info about needed python-packages
 numpy  : mathematical operation over arrays  
 logging: generate files to record genotype combinations, genotype probabilities, and likelihood values for each locus  
