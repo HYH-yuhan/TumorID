@@ -14,9 +14,9 @@ tmp_path = r'./example/'
 ```
 Each of them are the path to store tumor sample STR profile, reference profile, frequency table and size table of kits. Specially, tmp_path in this script is used to store each locus genotype combination file during the running process, which is created by users.  
 
-Please note that the script is only available for globalfiler.Please contact the author of the manuscript if you encounter any bugs.
+Please note that the script is only available for globalfiler. Please contact the author of the manuscript if you encounter any bugs.
 ## Example
-An example is provided here, including the **tumor sample profile HTFD0166.txt, reference profile HBD0166.txt, frequency file southeast_fre.txt, size file gf_kit.txt**. All of profile were exported by GeneMapper ID-X 1.5 software (Applied Biosystems, USA), frequency file were derived from a population survey of Southwest Han Chinese individuals,and globalfiler kit info was exported from [euroformix](http://euroformix.com/)
+An example is provided here, including the **tumor sample profile HTFD0166.txt, reference profile HBD0166.txt, frequency file southeast_fre.txt, size file gf_kit.txt**. All of profile were exported by GeneMapper ID-X 1.5 software (Applied Biosystems, USA), frequency file were derived from a population survey of Southwest Han Chinese individuals, and globalfiler kit info was exported from [euroformix](http://euroformix.com/)
 
 ## Info about needed python-packages
 numpy  : mathematical operation over arrays  
