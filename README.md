@@ -2,7 +2,7 @@
 TumorID, short for "tumor identification", is a supplementary for the manuscript entitled "Exploration of individual identification of tumor tissues using probabilistic genotyping algorithms". 
 
 ## TumorID_code
-Source code in this file is written by python 3.8.8. tumor_mian_iter.py can be used as the mian program. Users can calculate the maximum likelihood under hp and hd and store results in specified path by adjust the following paths : tumor_profile_path, sus_path, fre_path, sizepath. Each of them are the path to store tumor sample STR profile, reference profile, frequency table and size table of kits. Specially, tmp_path in this script is used to store each locus genotype combination file during the running process, which is created by users.
+Source code in this file is written by python 3.8.8. tumor_mian_iter.py can be used as the mian program. Users can calculate the maximum likelihood under hp and hd, and store results in specified path by adjust the following paths : tumor_profile_path, sus_path, fre_path, sizepath. Each of them are the path to store tumor sample STR profile, reference profile, frequency table and size table of kits. Specially, tmp_path in this script is used to store each locus genotype combination file during the running process, which is created by users.  
 
 Please note that the script is only available for globalfiler.Please contact the author of the manuscript if you encounter any bugs.
 ## Example
