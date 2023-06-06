@@ -1,0 +1,25 @@
+Sample Name	Marker	Allele 1	Allele 2	Allele 3	Allele 4	Allele 5	Allele 6	Allele 7	Allele 8	Allele 9	Allele 10	Allele 11	Allele 12	Height 1	Height 2	Height 3	Height 4	Height 5	Height 6	Height 7	Height 8	Height 9	Height 10	Height 11	Height 12	
+16-1	D3S1358	16												3855												
+16-1	vWA	18	19											1912	1197											
+16-1	D16S539	10	13											1189	1011											
+16-1	CSF1PO	10	12											774	813											
+16-1	TPOX	8	9											575	652											
+16-1	Yindel																									
+16-1	AMEL	X												9742												
+16-1	D8S1179	10	12											4886	3600											
+16-1	D21S11	31												4765												
+16-1	D18S51	12	15											2385	1702											
+16-1	DYS391																									
+16-1	D2S441	10	11.3											3193	3916											
+16-1	D19S433	14	14.2											2796	3456											
+16-1	TH01	9.3	10											2340	2154											
+16-1	FGA	21	22											3973	2264											
+16-1	D22S1045	16	17											2433	2480											
+16-1	D5S818	11	12											2342	2489											
+16-1	D13S317	8	11											4030	3258											
+16-1	D7S820	11	12											1689	1867											
+16-1	SE33	22.2	28.2											1826	1482											
+16-1	D10S1248	12	13											3099	2168											
+16-1	D1S1656	15	17	18										1872	1335	552										
+16-1	D12S391	21	23											748	1353											
+16-1	D2S1338	18	24											1216	1468											
