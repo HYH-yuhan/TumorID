@@ -1,5 +1,5 @@
 # TumorID
-TumorID, short for "tumor identification", is a supplementary for the manuscript entitled "Exploration of individual identification of tumor tissues using probabilistic genotyping algorithms". 
+TumorID, short for "tumor identification", is a supplementary for the manuscript entitled "Exploration of identifying individual tumor tissue using probabilistic genotyping algorithms". 
 
 ## TumorID_code
 Source code in this file is written by python 3.8.8. tumor_mian_iter.py can be used as the mian program. Users can calculate the maximum likelihood under hp and hd, and store results in specified path by adjust the following paths : 
