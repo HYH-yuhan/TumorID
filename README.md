@@ -30,8 +30,8 @@ For kinship consideration, list kls in the script **cal_P_g_H.py** should be adj
  kls = [ 1 , 0 , 0 ]
 ```
 
-Please note that the script is only available for globalfiler. 
-Please note that it is necessary to **take the negative value** of the result of the calculation under Hp/Hd, because the optimizer in the script is looking for the minimum value of the likelihood function.
+Please note that the script is only available for globalfiler.   
+Please note that it is necessary to **take the negative value** of the result of the calculation under Hp/Hd, because the optimizer in the script is looking for the minimum value of the likelihood function.  
 Please contact the author of the manuscript if you encounter any bugs.
 
 ## Example
