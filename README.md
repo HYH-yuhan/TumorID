@@ -30,7 +30,9 @@ For kinship consideration, list kls in the script **cal_P_g_H.py** should be adj
  kls = [ 1 , 0 , 0 ]
 ```
 
-Please note that the script is only available for globalfiler. Please contact the author of the manuscript if you encounter any bugs.
+Please note that the script is only available for globalfiler. 
+Please note that it is necessary to **take the negative value** of the result of the calculation under Hp/Hd, because the optimizer in the script is looking for the minimum value of the likelihood function.
+Please contact the author of the manuscript if you encounter any bugs.
 
 ## Example
 An example is provided here, including the **tumor sample profile HTFD0166.txt, reference profile HBD0166.txt, frequency file southeast_fre.csv, size file gf_kit.txt**. All of profile were exported by GeneMapper ID-X 1.5 software (Applied Biosystems, USA), frequency file were derived from a population survey of Southwest Han Chinese individuals, and globalfiler kit info was exported from [euroformix](http://euroformix.com/) **southeast_allele.txt** is used to generate random unrelated person.
