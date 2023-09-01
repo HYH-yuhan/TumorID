@@ -195,7 +195,7 @@ def hd_g1Fgeno(out_path,locus,fre_df,profile,sus_path,noc):
     :return: Genotype frequencies of  the first contributor based on kinship,list
     '''
 
-    kls = [ 1 , 0 , 0 ]    # under Hd, unrelated is [1,0,0] , PO is [0,1,0], FS is [0,0,1]
+    kls = [ 1 , 0 , 0 ]    
 
     hd_g1_fgeno = []   # Genotype frequencies of the first contributor under Hd
 
