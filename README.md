@@ -1,5 +1,5 @@
 # TumorID
-TumorID, short for "tumor identification", is a supplementary for the manuscript entitled "Exploration of identifying individual tumor tissue using probabilistic genotyping algorithms". 
+TumorID, short for "tumor identification", is a supplementary for the manuscript entitled "Exploration of identifying individual tumor tissue using probabilistic model". 
 
 ## TumorID_code
 The pipeline has ability to calculate data containing four cell populations.  
