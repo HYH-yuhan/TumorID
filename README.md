@@ -35,7 +35,7 @@ Please note that it is necessary to **take the negative value** of the result of
 Please contact the author of the manuscript if you encounter any bugs.
 
 ## Example
-An example is provided here, including the **tumor sample profile HTFD0166.txt, reference profile HBD0166.txt, frequency file southeast_fre.csv, size file gf_kit.txt**. All of profile were exported by GeneMapper ID-X 1.5 software (Applied Biosystems, USA), frequency file were derived from a population survey of Southwest Han Chinese individuals, and globalfiler kit info was exported from [euroformix](http://euroformix.com/) **southeast_allele.txt** is used to generate random unrelated person.
+An example is provided here, including the **tumor sample profile HTFD0166.txt, reference profile HBD0166.txt, frequency file southeast_fre.csv, size file gf_kit.txt**. All of profile were exported by GeneMapper ID-X 1.5 software (Applied Biosystems, USA), frequency file were derived from a population survey of Southwest Han Chinese individuals, and globalfiler kit info was exported from [euroformix](http://euroformix.com/) . **southeast_allele.txt** is used to generate random unrelated person.
 
 ## ValiOpt_dataset
 This dataset is used to verify the accuracy of the optimizer in this pipeline compared with Euroformix. Eight two-person DNA mixture profiles, reference profile, and frequency file are provided. 
