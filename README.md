@@ -19,7 +19,7 @@ Each of them is the path to store tumor sample STR profile, reference profile, f
 
 The validity of the results could be further confirmed through two methods. Firstly, by substituting the reference with a randomly generated individual who is not related, and secondly, by adjusting the probability of the genotype under Hd propositions when taking into account the kinship assumptions. 
 
-## non-contributor testing
+### non-contributor testing
 For non-contributor testing operations, **Generate_p.py** and **Generate_pfile.py** are used. Firstly, designate allele list files generated using frequency files as script inputs(alle_path). Secondly, set the output path of the results ,which is a simulation-generated non-contributor genotyping file. Finally, use this file to replace the sus_path above and perform the calculations.
 ```
 for i in range(1,1001):
@@ -28,7 +28,7 @@ for i in range(1,1001):
     Generate_p.RM_txt_simu(alle_path,RM_path)
 ```
 
-## kinship consideration
+### kinship consideration
 For kinship consideration, list kls in the script **cal_P_g_H.py** should be adjusted.
 ```
  kls = [ 1 , 0 , 0 ]
